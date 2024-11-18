@@ -28,21 +28,6 @@ Welcome to the  real-time-chat-app! This project provides instant messaging capa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/real-time-chat-app.git
+   https://github.com/monish-j/real-time-chat-app.git
 
-
-2. Navigate to the project directory:
-   
-  cd real-time-chat-app
-
-4. Install dependencies:
-   
-  npm install
-
- **Usage**
-  Start the server:
-  
-  npm start
-
- Open your browser and navigate to http://localhost:3000 to use the chat app.
 
