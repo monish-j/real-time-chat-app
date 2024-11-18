@@ -31,5 +31,5 @@ Welcome to the Real-Time Chat App! This project provides instant messaging capab
    git clone https://github.com/your-username/real-time-chat-app.git
 
 2. Navigate to the project directory:
-   
+   ```sh
    cd real-time-chat-app
