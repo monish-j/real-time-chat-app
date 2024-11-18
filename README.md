@@ -31,12 +31,12 @@ Welcome to the real-time-chat-app! This project provides instant messaging capab
    git clone https://github.com/monish-j/real-time-chat-app.git
 
 
-##### 2. Navigate to the project directory:
+#### 2. Navigate to the project directory:
 
     cd real-time-chat-app
 
 
-##### 3. Install dependencies:
+#### 3. Install dependencies:
   
     npm install 
 
