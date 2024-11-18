@@ -1,6 +1,6 @@
 # real-time-chat-app
 
-Welcome to the  real-time-chat-app! This project provides instant messaging capabilities with real-time updates. Using Socket.io, this app offers a seamless and interactive chat experience for users. This project serves as a demonstration of real-time communication using WebSockets.
+Welcome to the real-time-chat-app! This project provides instant messaging capabilities with real-time updates. Using Socket.io, this app offers a seamless and interactive chat experience for users. This project serves as a demonstration of real-time communication using WebSockets.
 
 ## Features
 
@@ -28,6 +28,25 @@ Welcome to the  real-time-chat-app! This project provides instant messaging capa
 
 1. Clone the repository:
    ```sh
-   https://github.com/monish-j/real-time-chat-app.git
+   git clone https://github.com/monish-j/real-time-chat-app.git
+
+
+##### 2. Navigate to the project directory:
+
+    cd real-time-chat-app
+
+
+##### 3. Install dependencies:
+  
+    npm install 
+
+### Usage
+
+#### 1. Start the server:
+
+    npm start
+
+#### 2. Open your browser and navigate to http://localhost:3000 to use the chat app.
+
 
 
