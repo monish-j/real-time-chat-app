@@ -32,16 +32,16 @@ Welcome to the  real-time-chat-app! This project provides instant messaging capa
 
 
 2. Navigate to the project directory:
-   ```sh
+   
   cd real-time-chat-app
 
 4. Install dependencies:
-   ```sh
+   
   npm install
 
  **Usage**
   Start the server:
-  ```sh
+  
   npm start
 
  Open your browser and navigate to http://localhost:3000 to use the chat app.
