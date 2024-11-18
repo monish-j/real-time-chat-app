@@ -38,7 +38,7 @@ Welcome to the Real-Time Chat App! This project provides instant messaging capab
   ```sh
   npm install
 
- **Usage**
+ ## Usage
 1. Start the server:
  ```sh
   npm start
