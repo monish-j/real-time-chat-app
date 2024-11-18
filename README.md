@@ -33,3 +33,20 @@ Welcome to the Real-Time Chat App! This project provides instant messaging capab
 2. Navigate to the project directory:
    ```sh
    cd real-time-chat-app
+   
+3. Install dependencies:
+  ```sh
+  npm install
+
+ **Usage**
+1. Start the server:
+ ```sh
+  npm start
+
+2. Open your browser and navigate to http://localhost:3000 to use the chat app.
+
+## Development Process
+
+ The app was developed with a focus on real-time communication and user experience. User feedback was gathered through informal testing, leading to several iterations and 
+ improvements. The project follows the MVC pattern for better code organization and maintainability.
+  
