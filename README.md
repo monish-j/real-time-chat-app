@@ -37,9 +37,9 @@ Welcome to the  real-time-chat-app! This project provides instant messaging capa
 3. Install dependencies:
   npm install
 
- Usage
-Start the server:
- npm start
+ **Usage**
+  Start the server:
+  npm start
 
-Open your browser and navigate to http://localhost:3000 to use the chat app.
+ Open your browser and navigate to http://localhost:3000 to use the chat app.
 
